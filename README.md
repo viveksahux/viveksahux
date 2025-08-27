@@ -29,7 +29,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveksahu&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksahu&layout=compact&theme=radical)  
@@ -43,7 +43,7 @@
 ✔ Enhancing **Linux & Networking Skills**  
 
 ---
-
+-->
 ### 🔗 Connect with Me  
 📌 [Portfolio](https://viveksahu.dev)  
 📌 [LinkedIn](https://www.linkedin.com/in/viveksahux/)  
