@@ -1,33 +1,29 @@
 <h1 align="center">Vivek Sahu</h1>
-<h3 align="center">💻 *CSE Student | Learning Web Dev & AI*  h</h3>
+<h3 align="center">💻 CSE Student | Learning Web Dev & AI </h3>
 
-💻 *CSE Student | Learning Web Dev & AI*  
 
-🌐 [**Portfolio**](https://viveksahu.dev) | [**LinkedIn**](https://linkedin.com/in/your-link) | [**GitHub**](https://github.com/viveksahu)  
+<p align="center">
+  <a href="mailto:mail.viveksahu@gmail.com">📧 Email</a> |
+  <a href="www.linkedin.com/in/viveksahux">💼 LinkedIn</a> |
+  <a href="https://github.com/viveksahux">🐙 GitHub</a> |
+  <a href="https://viveksahu.dev//">🌐 Portfolio</a>
+</p> 
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Computer Science & Engineering undergraduate  
-- 💼 Former **Network Technician at BSNL** (FTTH, OLT Config, Multi-WAN Setup)  
+- 🎓 Computer Science & Engineering undergraduate
 - 🌱 Currently learning **Web Development** and **AI**  
+- 💼 Former **Network Technician at BSNL** (FTTH, OLT Config, Multi-WAN Setup)  
 - 🛠 Passionate about **system optimization**, **performance-driven programming**, and **open-source projects**  
 - ⚡ Fun fact: I enjoy building **efficient solutions**, from **websites** to **network setups**  
 
 ---
 
 ## 🛠 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,java,python,linux,react,express,mongodb,postgres,tailwindcss,wordpress,git,github" />
+</p>
 
 ---
 <!--
