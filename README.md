@@ -1,4 +1,5 @@
-# Hi there, I'm Vivek Sahu 👋  
+<h1 align="center">Vivek Sahu</h1>
+<h3 align="center">💻 *CSE Student | Learning Web Dev & AI*  h</h3>
 
 💻 *CSE Student | Learning Web Dev & AI*  
 
